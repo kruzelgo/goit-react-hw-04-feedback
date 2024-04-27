@@ -1,0 +1,7 @@
+.notification {
+  color: #fff;
+  background: rgb(138, 119, 112);
+  padding: 10px;
+  font-weight: 200;
+  align-items: center;
+}

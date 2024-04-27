@@ -1,0 +1,19 @@
+.statistics {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.good {
+  color: #216230;
+}
+
+.neutral {
+  color: #dbbf9d;
+}
+.bad {
+  color: #9e1825;
+}
+
+.total {
+  color: #7693ac;
+}
